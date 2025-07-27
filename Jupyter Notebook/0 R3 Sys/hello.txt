@@ -1,0 +1,8 @@
+Python
+Java
+JavaScript
+C++
+C
+['Python', 'Java', 'JavaScript', 'C++', 'C']
+{'Name ': 'Adarsh', 'Roll No ': 61, 'Course ': 'CM'}
+{'Adarsh', 'Yadnesh', 'Vedant', 'Tanay'}
